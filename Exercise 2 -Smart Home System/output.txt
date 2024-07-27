@@ -55,6 +55,20 @@ Device added.
 7. View Schedules
 8. View Triggers
 9. Exit
+4
+Enter device ID to get status:
+1
+Status: Light 1 is off
+
+1. Add Device
+2. Turn On Device
+3. Turn Off Device
+4. Get Device Status
+5. Set Schedule
+6. Add Trigger
+7. View Schedules
+8. View Triggers
+9. Exit
 2
 Enter device ID to turn on:
 1
