@@ -1,0 +1,162 @@
+1. Add Device
+2. Turn On Device
+3. Turn Off Device
+4. Get Device Status
+5. Set Schedule
+6. Add Trigger
+7. View Schedules
+8. View Triggers
+9. Exit
+1
+Enter device type (light/thermostat/door lock):
+light
+Enter device ID:
+1
+Device added.
+
+1. Add Device
+2. Turn On Device
+3. Turn Off Device
+4. Get Device Status
+5. Set Schedule
+6. Add Trigger
+7. View Schedules
+8. View Triggers
+9. Exit
+1
+Enter device type (light/thermostat/door lock):
+thermostat
+Enter device ID:
+2
+Device added.
+
+1. Add Device
+2. Turn On Device
+3. Turn Off Device
+4. Get Device Status
+5. Set Schedule
+6. Add Trigger
+7. View Schedules
+8. View Triggers
+9. Exit
+1
+Enter device type (light/thermostat/door lock):
+door lock
+Enter device ID:
+3
+Device added.
+
+1. Add Device
+2. Turn On Device
+3. Turn Off Device
+4. Get Device Status
+5. Set Schedule
+6. Add Trigger
+7. View Schedules
+8. View Triggers
+9. Exit
+2
+Enter device ID to turn on:
+1
+Device turned on.
+
+1. Add Device
+2. Turn On Device
+3. Turn Off Device
+4. Get Device Status
+5. Set Schedule
+6. Add Trigger
+7. View Schedules
+8. View Triggers
+9. Exit
+4
+Enter device ID to get status:
+1
+Status: Light 1 is on
+
+1. Add Device
+2. Turn On Device
+3. Turn Off Device
+4. Get Device Status
+5. Set Schedule
+6. Add Trigger
+7. View Schedules
+8. View Triggers
+9. Exit
+4
+Enter device ID to get status:
+2
+Status: Thermostat 2 is set to 70 degrees
+
+1. Add Device
+2. Turn On Device
+3. Turn Off Device
+4. Get Device Status
+5. Set Schedule
+6. Add Trigger
+7. View Schedules
+8. View Triggers
+9. Exit
+4
+Enter device ID to get status:
+3
+Status: Door 3 is locked
+
+1. Add Device
+2. Turn On Device
+3. Turn Off Device
+4. Get Device Status
+5. Set Schedule
+6. Add Trigger
+7. View Schedules
+8. View Triggers
+9. Exit
+5
+Enter device ID for schedule:
+2
+Enter schedule time (e.g., 06:00):
+06:00
+Enter command (e.g., Turn On):
+Turn On
+Schedule set.
+
+1. Add Device
+2. Turn On Device
+3. Turn Off Device
+4. Get Device Status
+5. Set Schedule
+6. Add Trigger
+7. View Schedules
+8. View Triggers
+9. Exit
+7
+Scheduled Tasks: [(device: 2, time: 06:00, command: Turn On)]
+
+1. Add Device
+2. Turn On Device
+3. Turn Off Device
+4. Get Device Status
+5. Set Schedule
+6. Add Trigger
+7. View Schedules
+8. View Triggers
+9. Exit
+6
+Enter condition for trigger:
+temperature > 75
+Enter action for trigger:
+turnoff(1)
+Trigger added.
+
+1. Add Device
+2. Turn On Device
+3. Turn Off Device
+4. Get Device Status
+5. Set Schedule
+6. Add Trigger
+7. View Schedules
+8. View Triggers
+9. Exit
+8
+Automated Triggers: [(condition: "temperature > 75", action: "turnoff(1)")]
+
