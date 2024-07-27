@@ -1,0 +1,4 @@
+Enter stock symbol: AAPL
+Enter stock price: 150.0
+Alice notified. AAPL is now $150.0
+Bob notified. AAPL is now $150.0

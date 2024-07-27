@@ -1,0 +1,11 @@
+Enter audio type (mp3/mp4/vlc): mp3
+Enter file name: song.mp3
+Playing mp3 file. Name: song.mp3
+
+Enter audio type (mp3/mp4/vlc): mp4
+Enter file name: movie.mp4
+Playing mp4 file. Name: movie.mp4
+
+Enter audio type (mp3/mp4/vlc): vlc
+Enter file name: video.vlc
+Playing vlc file. Name: video.vlc

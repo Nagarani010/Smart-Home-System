@@ -1,0 +1,5 @@
+Enter document type (word/pdf): word
+Opening Word document.
+
+Enter document type (word/pdf): pdf
+Opening PDF document.

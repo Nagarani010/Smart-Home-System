@@ -1,0 +1,7 @@
+Current coffee: Simple Coffee Cost: $5.0
+Add milk? (yes/no): yes
+Final coffee: Simple Coffee, Milk Cost: $6.5
+
+Current coffee: Simple Coffee Cost: $5.0
+Add milk? (yes/no): no
+Final coffee: Simple Coffee Cost: $5.0

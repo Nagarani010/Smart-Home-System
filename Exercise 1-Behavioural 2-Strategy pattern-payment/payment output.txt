@@ -1,0 +1,10 @@
+Enter payment method (creditcard/paypal): creditcard
+Enter amount: 150
+Enter credit card number: 1234 5678
+Paid 150 using Credit Card 1234
+
+
+Enter payment method (creditcard/paypal): paypal
+Enter amount: 100
+Enter PayPal email: user@gmail.com
+Paid 100 using PayPal user@gmail.com
